@@ -12,6 +12,12 @@ Add the `ddog` crate to your project:
 ```toml
 ddog = "0.1.0"
 ```
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x7Ab9De2564938c45EAcC3Cc7ecC32D478ca077e9'
+quorum: 1
 
 
 ## Usage
